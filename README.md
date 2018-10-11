@@ -1,2 +1,2 @@
 # C_playground
-learning-C
+learning C
